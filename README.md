@@ -7,7 +7,7 @@ Majority of my full-time industry experience has been writing Modern C++ (11/14/
 - 🔭 I’m currently working on [Pre-ablo], a reverse-engineering effort for an early Diablo demo
 - 💬 Ask me about my music! I produce electronic music and self-publish on [Bandcamp]
 
-I'm a bit of a digital packrate so, admitedly, my GitHub is a bit cluttered. I've tried to use pins to highlight projects I'm proud of or still interested in. Additionally, my GitHub is only a drop in the bucket of my entire coding journey. If you're looking for half-baked personal projects that I worked on before 2017, check out my [GitLab].
+I'm a bit of a digital pack rat so my GitHub is a bit cluttered. To alleviate this, I've tried to use pins to highlight the cream of the crop -- projects I'm proud of or still interested in. Additionally, my GitHub is only a drop in the bucket of my entire coding journey. If you're looking for half-baked personal projects that I worked on before 2017, check out my [GitLab].
 
 [University of Waterloo]: https://uwaterloo.ca/
 [Big 3]: https://www.quora.com/What-are-the-most-challenging-courses-at-the-University-of-Waterloo-for-a-computer-science-major
